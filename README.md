@@ -1,1 +1,2 @@
-# chatbot-AI
+# Mood-Driven Chatbot
+LetterBot Chat is an interactive chatbot platform with dynamic animations and personalized conversations. It features a unique letter-by-letter typing system, playful letter pool interactions, and three distinct moods (Friendly, Suspicious, Boastful) that change the bot’s tone. Built with JavaScript, HTML, and CSS, LetterBot Chat provides a fun, immersive, and responsive chat experience. Explore the code, contribute, and enjoy a lively conversation!
